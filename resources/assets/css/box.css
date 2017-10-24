@@ -1,0 +1,43 @@
+﻿@charset "utf-8";
+
+._box{
+    position: absolute; left: 0; top: 0;
+    width: 100%; height: 100%;
+    background:rgba(0,0,0,0.5);
+    z-index: 999; display: none;
+}
+._box .back{
+    position: absolute; left: 0; top: 0;
+    width: 100%; height: 100%;
+}
+._box .back1{
+    position: absolute; left: 999px; top: 0;
+    width: 95px; height: 95px;
+}
+._box .box{
+    position: absolute; left: 413px; top: 257px;
+    width: 1094px; height: 566px;
+    background: url(../img/box.png) no-repeat;
+    display: none;
+}
+._box .pic{
+    position: absolute; left: 120px; top: 155px;
+    width: 368px; height: 240px;
+    border: 1px solid #48b2ff;
+}
+._box .com{
+    position: absolute; left: 0px; top: 437px;
+    width: 100%; height: 50px;
+    font-size: 24px; color: #48b2ff;
+    text-align: center;
+}
+._box .tit{
+    position: absolute; left: 528px; top: 154px;
+    width: 490px; height: 80px;
+    font-size: 24px; color: #52ddf6;
+}
+._box .info{
+    position: absolute; left: 528px; top: 205px;
+    width: 476px; height: 210px;
+    font-size: 21px; color: #52ddf6;
+}

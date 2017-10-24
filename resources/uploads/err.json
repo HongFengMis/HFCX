@@ -1,0 +1,37 @@
+{
+    "list": [
+        {
+            "file": "resources/uploads/p1/pot1.png",
+            "mysize": 43392
+        },
+        {
+            "file": "resources/uploads/p2/pot1.png",
+            "mysize": 40436
+        },
+        {
+            "file": "resources/uploads/p2/pot2.png",
+            "mysize": 40375
+        },
+        {
+            "file": "resources/uploads/p2/pot3.png",
+            "mysize": 41497
+        },
+        {
+            "file": "resources/uploads/p3/pot1.png",
+            "mysize": 40838
+        },
+        {
+            "file": "resources/uploads/p4/pot1.png",
+            "mysize": 41470
+        },
+        {
+            "file": "resources/uploads/p4/pot2.png",
+            "mysize": 40823
+        },
+        {
+            "file": "resources/uploads/p5/pot1.png",
+            "mysize": 40390
+        }
+    ],
+    "date": "2016-12-14T14:33:35.811Z"
+}
